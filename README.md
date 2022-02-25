@@ -1,4 +1,4 @@
-# steel-plates-faults
+# Steel-plates-faults
 ## 程式簡介
 ### 簡述
 * 使用「類神經網路」實作 [Kaggle](https://www.kaggle.com/) - [Steel Plates Faults](https://www.kaggle.com/sureshmecad/steel-plates-faults/version/2) 資料集，目的是「鋼板故障種類」之分類
