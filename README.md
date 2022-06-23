@@ -1,7 +1,7 @@
 # Steel-plates-faults
 ## 程式簡介
 ### 簡述
-* 使用「類神經網路」實作 [Kaggle](https://www.kaggle.com/) - [Steel Plates Faults](https://www.kaggle.com/datasets/uciml/faulty-steel-plates/code) 資料集，目的是「鋼板故障種類」之分類
+* 使用「類神經網路」實作 [Kaggle](https://www.kaggle.com/) - [Steel Plates Faults](https://www.kaggle.com/datasets/uciml/faulty-steel-plates) 資料集，目的是「鋼板故障種類」之分類
 
 * csv檔前27欄是訓練資料的特徵( 沒有詳細說明 )；最後7欄表示錯誤類型，代表Label
 
